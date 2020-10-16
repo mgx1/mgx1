@@ -3,7 +3,7 @@
 - 🇧🇷 Brazilian
 - 🎂 20 years old
 - 📚 Studying to become a fullstack developer
-- 🎮 Games Lover 
+- 🎮 Games lover 
 - ☕ Coffee lover
 
 
