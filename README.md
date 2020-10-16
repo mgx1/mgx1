@@ -3,6 +3,6 @@
 
 ![mgx1's github stats](https://github-readme-stats.vercel.app/api?username=mgx1&show_icons=true&theme=dark)
 #### 📫 How to reach me: 
-- 📧 ca.mota27.09@gmail.com
-- 📷 ![@carlin_a7](https://www.instagram.com/carlin_a7/)
+- ![Gmail](ca.mota27.09@gmail.com)
+- ![Instagram](https://www.instagram.com/carlin_a7/)
 - 👾 mgx#7814
