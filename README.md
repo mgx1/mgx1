@@ -1,5 +1,4 @@
-![namelogo](https://github.com/mgx1/mgx1/blob/main/name.png)
-# Welcome!
+# Welcome!  ![namelogo](https://github.com/mgx1/mgx1/blob/main/name.png)
 #### About me 👇
 - 🇧🇷 Brazilian
 - 🎂 20 years old
@@ -9,7 +8,6 @@
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgx1&layout=compact)
-
 
 #### 📫 How to reach me: 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sca.mota27.09@gmail.com)](mailto:ca.mota27.09@gmail.com)
