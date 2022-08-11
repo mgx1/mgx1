@@ -1,10 +1,4 @@
 # Welcome!
-#### About me 👇
-- 🇧🇷 Brazilian
-- 🎂 21 years old
-- 🎮 Games lover 
-- ☕ Coffee lover
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgx1&layout=compact)
 
